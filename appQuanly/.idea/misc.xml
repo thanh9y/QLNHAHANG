@@ -1,0 +1,136 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/backback.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/border3.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/button.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/circle_drawable.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/corner_border_black.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/corner_border_primary.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/corner_border_white.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/home_danhmuc.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/home_deal.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/home_food.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/home_uathich.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/home_vi.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/ic_videogame_asset_black_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/ic_view_list_black_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/drawable/nextnext.xml" value="0.240625" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/font/baloo.xml" value="0.25076923076923074" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/activity_activityprofile.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/activity_static_thong_ke.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/activity_thongtin.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/activity_thongtinungdung.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/addcategory_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/addmenu_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/addstaff_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/addtable_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/amount_menu_layout.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/detailstatistic_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displaycategory_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displayhome_layout.xml" value="0.34233518665607626" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displaymenu_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displaystaff_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displaystatistic_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/displaytable_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/edittable_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/fragment_blank.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/fragment_blank2.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/fragment_thongtin.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/home_layout.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/login_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/menu_navigation_header.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/payment_layout.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/register2nd_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/register_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/splash_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/QL_Coffee/app/src/main/res/layout/welcome_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/QL_Coffee/QL_Coffee/app/src/main/res/layout/activity_activityprofile.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addcategory_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addmenu_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addstaff_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addtable_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/amount_menu_layout.xml" value="0.2" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/detailstatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaycategory_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displayhome_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaymenu_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystaff_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaytable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/edittable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/home_layout.xml" value="0.3455571227080395" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/login_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/menu_navigation_header.xml" value="0.152" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/payment_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register2nd_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/splash_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/welcome_layout.xml" value="0.264" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/drawable/border3.xml" value="0.168" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/drawable/button.xml" value="0.168" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.168" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.168" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/drawable/round_corner_textview.xml" value="0.154" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/activity_activityprofile.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/activity_static_thong_ke.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/activity_thongtin.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/activity_thongtinungdung.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/addcategory_layout.xml" value="0.264" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/addmenu_layout.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/addstaff_layout.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/addtable_layout.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/amount_menu_layout.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.2" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.2" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.2" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.4" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/detailstatistic_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displaycategory_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displayhome_layout.xml" value="0.264" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displaymenu_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displaystaff_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displaystatistic_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/displaytable_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/edittable_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/fragment_blank.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/fragment_blank2.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/fragment_thongtin.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/home_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/login_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/menu_navigation_header.xml" value="0.536" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/payment_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/register2nd_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/register_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/splash_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/layout/welcome_layout.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/menu/edit_context_menu.xml" value="0.1" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/menu/item_menu.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/tinhy/Downloads/QLnhahang/QLnhahang/app/src/main/res/menu/main_menu_navigation.xml" value="0.17239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
